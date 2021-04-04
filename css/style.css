@@ -60,9 +60,10 @@ footer {
 }
 
 .learn {
+  color: #1783bb;
   text-decoration: none;
 }
 
-.learn: hover {
+.learn:hover {
   text-decoration: underline;
 }
