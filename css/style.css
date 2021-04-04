@@ -1,8 +1,7 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-<link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap" rel="stylesheet">
+
 /*////////// Global Styles //////////*/
 
 body {
@@ -22,4 +21,8 @@ h1 {
   color: rgb(152,173,166);
     text-decoration: none;
     font-family: Baskerville, serif;
+}
+
+h2 {
+  color: rgb(111,127,122);
 }
