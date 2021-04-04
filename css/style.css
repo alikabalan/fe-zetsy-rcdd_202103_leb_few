@@ -24,6 +24,7 @@ h1 a {
   text-decoration: none;
   font-size: 2em;
   font-family: "libre Baskerville", serif;
+  border-bottom: #000 solid 1px;
 }
 
 h2 {
