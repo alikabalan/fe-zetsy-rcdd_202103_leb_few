@@ -19,12 +19,12 @@ body {
   overflow: hidden;
 }
 
-header {
+/*header {
   border-bottom: #555 solid 1px;
 
 }
 
-/*h1 a {
+h1 a {
   color: rgb(152,173,166);
   text-decoration: none;
   font-size: 2em;
