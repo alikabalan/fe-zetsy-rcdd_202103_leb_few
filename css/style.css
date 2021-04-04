@@ -21,8 +21,9 @@ body {
 
 h1 a {
   color: rgb(152,173,166);
-    text-decoration: none;
-    font-family: Baskerville, serif;
+  text-decoration: none;
+  font-size: 3em;
+  font-family: "libre Baskerville", serif;
 }
 
 h2 {
